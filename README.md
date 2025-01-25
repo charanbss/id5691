@@ -1,1 +1,2 @@
-Run the `run_warehouse.py` file to execute the code.
+- Run the `run_warehouse.py` file to execute the code.
+- `stl-planner` folder has the codes against which benchmarks were taken.
